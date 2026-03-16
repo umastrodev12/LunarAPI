@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta
+
+[project]
+name = "discord.py"
+description = "An Simple Unnoficial API for Lunar Client!"
+readme = { file = "README.md" }
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+authors = [{ name = "Astro" }]
+
+[project.urls]
+"Issue Tracker" = "https://github.com/umastrodev12/LunarAPI/issues"
