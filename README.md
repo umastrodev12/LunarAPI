@@ -30,4 +30,4 @@ lunar.start()
 ## 📄 License
 LunarAPI is licensed under MIT License.
 
-**LunarAPI is not from the [Lunar Client](https://lunarclient.com).
+**LunarAPI is not from the [Lunar Client](https://lunarclient.com).**
